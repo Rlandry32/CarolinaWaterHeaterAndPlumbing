@@ -1,4 +1,4 @@
-# CarolinaWaterHeaterAndPlumbing# unzip the file first, then:
+
 cd cwhps_github_repo
 
 git init
